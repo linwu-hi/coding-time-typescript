@@ -2,3 +2,4 @@
 **/.vuepress/.cache/**
 **/.vuepress/.temp/**
 dist
+dirname.md
