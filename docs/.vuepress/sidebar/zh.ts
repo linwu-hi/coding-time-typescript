@@ -2,8 +2,8 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
   '/': [
-    '/CHANGELOG',
-    '/CONTRIBUTING',
+    '/',
+    '/preamble',
     {
       text:'基础',
       // collapsible:true,

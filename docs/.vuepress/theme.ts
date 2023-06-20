@@ -18,9 +18,11 @@ export default hopeTheme(
 
     logo: "/logo.svg",
 
+    navTitle:'现代高级Typescript教程',
+
     repo: "https://github.com/linwu-hi/coding-time-typescript",
 
-    docsDir: "/",
+    docsDir: "/docs/",
 
 
     locales: {
