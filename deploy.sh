@@ -18,6 +18,6 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:linwu-hi/coding-time-typescript.git
+git push -f git@github.com:linwu-hi/coding-time-typescript.git main::gh-pages
 
 cd -
