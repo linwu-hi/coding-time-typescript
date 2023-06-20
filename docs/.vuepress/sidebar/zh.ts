@@ -8,7 +8,7 @@ export const zhSidebar = sidebar({
       text:'基础',
       // collapsible:true,
       prefix:'base/',
-      link:'base/',
+      link:'base/概述',
       children:[
         '概述',
         '类型',
@@ -22,7 +22,7 @@ export const zhSidebar = sidebar({
       text:'进阶',
       // collapsible:true,
       prefix:'advance/',
-      link:'advance/',
+      link:'advance/类型系统',
       children:[
         '类型系统',
         '高级类型',
@@ -40,7 +40,7 @@ export const zhSidebar = sidebar({
       text:'实战',
       // collapsible:true,
       prefix:'practice/',
-      link:'practice/',
+      link:'practice/fetch',
       children:[
         'fetch',
       ]
