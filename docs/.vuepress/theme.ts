@@ -18,7 +18,7 @@ export default hopeTheme(
 
     logo: "/logo.svg",
 
-    repo: "https://github.com/linwu-hi/coding-time",
+    repo: "https://github.com/linwu-hi/coding-time-typescript",
 
     docsDir: "/",
 
