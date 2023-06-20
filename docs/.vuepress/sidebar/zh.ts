@@ -32,7 +32,17 @@ export const zhSidebar = sidebar({
         '结构化类型',
         '协变和逆变',
         '扩展类型定义',
+        '装饰器',
         '解读TSConfig'
+      ]
+    },
+    {
+      text:'实战',
+      // collapsible:true,
+      prefix:'practice/',
+      link:'practice/',
+      children:[
+        'fetch',
       ]
     }
   ],
