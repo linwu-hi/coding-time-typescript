@@ -11,14 +11,14 @@
 
 ## 书籍目录📚
 
-- [基础](docs/base/概述)
+- [基础](docs/base/概述.md)
   - [概述](docs/base/概述.md)
   - [类型](docs/base/类型.md)
   - [函数](docs/base/函数.md)
   - [接口和类](docs/base/接口和类.md)
   - [枚举和泛型](docs/base/枚举和泛型.md)
   - [命名空间和模块](docs/base/命名空间和模块.md)
-- [进阶](docs/advance/类型系统)
+- [进阶](docs/advance/类型系统.md)
   - [类型系统](docs/advance/类型系统.md)
   - [高级类型](docs/advance/高级类型.md)
   - [类型推断](docs/advance/类型推断.md)
@@ -29,7 +29,7 @@
   - [扩展类型定义](docs/advance/扩展类型定义.md)
   - [装饰器](docs/advance/装饰器.md)
   - [解读TSConfig](docs/advance/解读TSConfig.md)
-- [实战](docs/practice/fetch)
+- [实战](docs/practice/fetch.md)
   - [fetch](docs/practice/fetch.md)
 
 ## 关于我
