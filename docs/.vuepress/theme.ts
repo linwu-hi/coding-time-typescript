@@ -54,14 +54,13 @@ export default hopeTheme(
         "/zh/demo/encrypt.html": ["1234"],
       },
     },
-
     plugins: {
       comment: {
         provider: "Giscus",
-        repo: "vuepress-theme-hope/giscus-discussions",
-        repoId: "R_kgDOG_Pt2A",
+        repo: "linwu-hi/coding-time-typescript",
+        repoId: "R_kgDOJxm0xA",
         category: "Announcements",
-        categoryId: "DIC_kwDOG_Pt2M4COD69",
+        categoryId: "DIC_kwDOJxm0xM4CXWDS",
       },
 
       // All features are enabled for demo, only preserve features you need here
