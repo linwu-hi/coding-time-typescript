@@ -1,0 +1,23 @@
+{
+  "name": "coding-time-typescript",
+  "description": "coding-time-typescript教程",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:linwu-hi/coding-time-typescript.git"
+  },
+  "license": "MIT",
+  "private": true,
+  "packageManager": "pnpm@8.3.1",
+  "scripts": {
+    "dev": "pnpm run docs:dev",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.62",
+    "@vuepress/utils": "2.0.0-alpha.1",
+    "vue": "^3.3.4",
+    "vuepress": "2.0.0-beta.62",
+    "vuepress-theme-hope": "2.0.0-beta.219"
+  }
+}
