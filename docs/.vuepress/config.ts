@@ -1,7 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
-const base = process.env["BASE"] ? '/typescript/':'/coding-time-typescript/'
+const base = process.env["BASE"] ? '/':'/coding-time-typescript/'
 
 export default defineUserConfig({
   base,
