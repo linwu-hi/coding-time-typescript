@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://www.coding-time.cn/coding-time-typescript/sitemap.xml
+Sitemap: https://www.coding-time.cn/typescript/sitemap.xml
