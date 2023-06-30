@@ -1,5 +1,5 @@
 **/node_modules/**
 **/.vuepress/.cache/**
 **/.vuepress/.temp/**
-dist
+# dist
 dirname.md

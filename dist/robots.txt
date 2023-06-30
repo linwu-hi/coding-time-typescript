@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://www.coding-time.cn/coding-time-typescript/sitemap.xml
