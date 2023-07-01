@@ -29,15 +29,15 @@ highlights:
     highlights:
       - title: 《现代JavaScript高级教程》
         details: 课程旨在帮助学习者进阶JavaScript编程，涵盖现代JavaScript的高级概念和技术，包括异步编程、函数式编程、模块化开发、ES6+语法等。通过实际项目示例和练习，学习者将深入了解如何在JavaScript中构建高质量的应用程序。
-        link: http://linwu-hi.gitee.io/coding-time
+        link: https://www.coding-time
 
       - title: 《现代TypeScript高级教程》
         details: 这门课程专注于TypeScript编程语言，它是JavaScript的超集，为JavaScript开发者提供了静态类型检查和更强大的工具支持。课程将深入讲解TypeScript的语法、类型系统、面向对象编程、模块化开发等内容，并通过实际案例和练习帮助学习者掌握使用TypeScript构建可扩展应用程序的技巧。
-        link: http://linwu-hi.gitee.io/coding-time-typescript
+        link:  https://www.coding-time/typescript
 
       - title: 《深入浅出Dart》
         details: Dart是一种可用于构建Web、移动和桌面应用程序的开发语言。该课程将引导学习者快速入门Dart编程，并教授使用Dart和Flutter框架开发跨平台移动应用的基础知识。学习者将学习Dart的语法、面向对象编程、Flutter UI开发等，通过实战项目的实践，逐步掌握Dart应用程序开发的技能。
-        link:  http://linwu-hi.gitee.io/coding-time-dart
+        link:  https://www.coding-time/dart
 
   - header: 深入浅出Dart
     image: /assets/image/features.svg
@@ -84,5 +84,5 @@ highlights:
       - title: 面向对象编程：探讨JavaScript中的面向对象编程范式，包括原型继承、类、封装、继承和多态等概念。同时还介绍了ES6中新增的类语法和模块化的支持。
 
 copyright: false
-footer:  版权所有 © 2023-present linwu
+footer: <span> Copyright © 2023 - linwu</span>&nbsp;&nbsp;<span>&nbsp;<a style="color:#212529" href="https://beian.miit.gov.cn/" target="_blank">粤ICP备 2023073291号-1</a></span>
 ---
